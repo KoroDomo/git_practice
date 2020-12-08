@@ -1,0 +1,1 @@
+This is a .txt file that will be created in the Ubuntu Terminal, processed through Git and uploaded to my git_practice remote repository on Git Hub

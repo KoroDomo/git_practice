@@ -6,3 +6,5 @@
     Push your branch up to the remote for review
     -----------------------------------------------------
     Testing Branching
+    
+    Testing editing from another repo
